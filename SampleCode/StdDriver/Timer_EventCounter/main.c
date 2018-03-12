@@ -93,7 +93,8 @@ int main(void)
     NVIC_EnableIRQ(TMR0_IRQn);
 
 
-    for(i = 0; i < 1000; i++) {
+    for(i = 0; i < 1000; i++)
+    {
         P1->DOUT &= ~(1 << 5); // low
         P1->DOUT |= (1 << 5);  // high
     }

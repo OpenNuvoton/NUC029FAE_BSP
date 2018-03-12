@@ -2,7 +2,7 @@
  * @file     main.c
  * @version  V2.10
  * $Date: 14/06/11 10:13a $
- * @brief    Use GPIO driver to control the GPIO pin direction, control 
+ * @brief    Use GPIO driver to control the GPIO pin direction, control
  *           their high/low state, and how to use GPIO interrupts
  *
  * @note
@@ -25,11 +25,14 @@
 void GPIO01_IRQHandler(void)
 {
     /* To check if P0.7 interrupt occurred */
-    if (P0->ISRC & BIT7) {
+    if (P0->ISRC & BIT7)
+    {
         P0->ISRC = BIT7;
         printf("P0.7 INT occurred. \n");
 
-    } else {
+    }
+    else
+    {
         /* Un-expected interrupt. Just clear all PORT0, PORT1 interrupts */
         P0->ISRC = P0->ISRC;
         P1->ISRC = P1->ISRC;
@@ -50,10 +53,13 @@ void GPIO01_IRQHandler(void)
 void GPIO234_IRQHandler(void)
 {
     /* To check if P2.5 interrupt occurred */
-    if (P2->ISRC & BIT5) {
+    if (P2->ISRC & BIT5)
+    {
         P2->ISRC = BIT5;
         printf("P2.5 INT occurred. \n");
-    } else {
+    }
+    else
+    {
         /* Un-expected interrupt. Just clear all PORT2, PORT3 and PORT4 interrupts */
         P2->ISRC = P2->ISRC;
         P3->ISRC = P3->ISRC;
@@ -168,18 +174,23 @@ int main (void)
 
     /* Use Pin Data Input/Output Control to pull specified I/O or get I/O pin status */
     P15 = 0;
-    if (P34 != 0) {
+    if (P34 != 0)
+    {
         i32Err = 1;
     }
 
     P15 = 1;
-    if (P34 != 1) {
+    if (P34 != 1)
+    {
         i32Err = 1;
     }
 
-    if ( i32Err ) {
+    if ( i32Err )
+    {
         printf("  [FAIL] --- Please make sure P1.5 and P3.4 are connected. \n");
-    } else {
+    }
+    else
+    {
         printf("  [OK] \n");
     }
 

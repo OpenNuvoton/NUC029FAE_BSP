@@ -4,7 +4,7 @@
  * @version  V1.00
  * $Revision: 3 $
  * $Date: 14/06/11 10:13a $
- * @brief    Demonstrate ADC conversion and comparison function by monitoring 
+ * @brief    Demonstrate ADC conversion and comparison function by monitoring
  *           the conversion result of channel 0.
  *
  * @note
@@ -104,9 +104,11 @@ int32_t main (void)
     ADC_EnableInt(ADC, ADC_CMP1_INT);
     NVIC_EnableIRQ(ADC_IRQn);
 
-    while(1) {
+    while(1)
+    {
         // Trigger ADC conversion if it is idle
-        if(!ADC_IS_BUSY(ADC)) {
+        if(!ADC_IS_BUSY(ADC))
+        {
             ADC_START_CONV(ADC);
         }
     }

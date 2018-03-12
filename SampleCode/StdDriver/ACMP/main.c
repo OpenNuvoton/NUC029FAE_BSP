@@ -3,7 +3,7 @@
  * @version  V3.00
  * $Revision: 3 $
  * $Date: 14/06/11 10:13a $
- * @brief    Demonstrate Analog comparator (ACMP) comparison by comparing 
+ * @brief    Demonstrate Analog comparator (ACMP) comparison by comparing
  *           CPP0 (P1.5) with VBG voltage and shows the result on UART console
  *
  * @note

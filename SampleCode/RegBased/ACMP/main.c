@@ -4,7 +4,7 @@
  * @version  V1.00
  * $Revision: 4 $
  * $Date: 14/06/11 10:13a $
- * @brief    Demonstrate Analog comparator (ACMP) comparison by comparing 
+ * @brief    Demonstrate Analog comparator (ACMP) comparison by comparing
  *           CPP0 (P1.5) with VBG voltage and shows the result on UART console
  *
  * @note
@@ -37,7 +37,8 @@ void SYS_Init(void)
     /*---------------------------------------------------------------------------------------------------------*/
 
     /* Unlock protected registers */
-    while(SYS->RegLockAddr != 1) {
+    while(SYS->RegLockAddr != 1)
+    {
         SYS->RegLockAddr = 0x59;
         SYS->RegLockAddr = 0x16;
         SYS->RegLockAddr = 0x88;

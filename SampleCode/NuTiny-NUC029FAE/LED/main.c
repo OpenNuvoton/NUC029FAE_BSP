@@ -96,7 +96,8 @@ int main(void)
     /*set P2.4 to output mode */
     GPIO_SetMode(P2, BIT4, GPIO_PMD_OUTPUT);
 
-    while(1) {
+    while(1)
+    {
         P24 = 0;
         delay_loop();
         P24 = 1;

@@ -3,8 +3,8 @@
  * @version  V1.00
  * $Revision: 3 $
  * $Date: 14/06/11 10:13a $
- * @brief    Show how to use Analog comparator (ACMP) state change to trigger 
- *           timer capture function. P1.5 is used as comparator positive input 
+ * @brief    Show how to use Analog comparator (ACMP) state change to trigger
+ *           timer capture function. P1.5 is used as comparator positive input
  *           and VBG as negative input.
  *
  * @note
@@ -20,7 +20,8 @@ void TMR0_IRQHandler(void)
     static int cnt = 0;
 
     cnt++;
-    if(cnt == 60) {
+    if(cnt == 60)
+    {
         printf("Input frequency is %dHz\n", 1000000 / TIMER0->TCAP);
         cnt = 0;
     }
@@ -36,7 +37,8 @@ void SYS_Init(void)
     /*---------------------------------------------------------------------------------------------------------*/
 
     /* Unlock protected registers */
-    while(SYS->RegLockAddr != 1) {
+    while(SYS->RegLockAddr != 1)
+    {
         SYS->RegLockAddr = 0x59;
         SYS->RegLockAddr = 0x16;
         SYS->RegLockAddr = 0x88;

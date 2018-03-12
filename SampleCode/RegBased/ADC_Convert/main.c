@@ -4,7 +4,7 @@
  * @version  V1.00
  * $Revision: 3 $
  * $Date: 14/06/11 10:13a $
- * @brief    Demonstrate ADC function by repeatedly convert the input of ADC 
+ * @brief    Demonstrate ADC function by repeatedly convert the input of ADC
  *           channel 5 (P1.5) and shows the result on UART console
  *
  * @note
@@ -31,7 +31,8 @@ void SYS_Init(void)
     /*---------------------------------------------------------------------------------------------------------*/
 
     /* Unlock protected registers */
-    while(SYS->RegLockAddr != 1) {
+    while(SYS->RegLockAddr != 1)
+    {
         SYS->RegLockAddr = 0x59;
         SYS->RegLockAddr = 0x16;
         SYS->RegLockAddr = 0x88;
@@ -100,9 +101,11 @@ int32_t main (void)
     // Enable ADC interrupt
     NVIC_EnableIRQ(ADC_IRQn);
 
-    while(1) {
+    while(1)
+    {
         // Check if ADC is busy
-        if(!(ADC->ADSR & ADC_ADSR_BUSY_Msk)) {
+        if(!(ADC->ADSR & ADC_ADSR_BUSY_Msk))
+        {
             // Trigger ADC conversion
             ADC->ADCR |= ADC_ADCR_ADST_Msk;
         }
