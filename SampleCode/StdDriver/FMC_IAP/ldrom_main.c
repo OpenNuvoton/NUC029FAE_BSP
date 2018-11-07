@@ -15,6 +15,8 @@
 
 typedef void (FUNC_PTR)(void);
 
+FUNC_PTR    *func;
+uint32_t    sp;
 
 void SYS_Init(void)
 {
@@ -42,18 +44,11 @@ void SYS_Init(void)
     CLK->CLKSEL1 &= ~CLK_CLKSEL1_UART_S_Msk;
     CLK->CLKSEL1 |= CLK_CLKSEL1_UART_S_XTAL;// Clock source from external 12 MHz or 32 KHz crystal clock
 
-    /* Update System Core Clock */
-    /* User can use SystemCoreClockUpdate() to calculate PllClock, SystemCoreClock and CycylesPerUs automatically. */
-    SystemCoreClockUpdate();
-
     /*---------------------------------------------------------------------------------------------------------*/
     /* Init I/O Multi-function                                                                                 */
     /*---------------------------------------------------------------------------------------------------------*/
     /* Set P0.0,P0.1 multi-function pins for UART RXD and TXD  */
     SYS->P0_MFP = SYS_MFP_P00_TXD | SYS_MFP_P01_RXD;
-
-    /* Lock protected registers */
-    SYS_LockReg();
 }
 
 void UART_Init()
@@ -63,6 +58,23 @@ void UART_Init()
     /*---------------------------------------------------------------------------------------------------------*/
     outp32(0x40050024, 0x30000066);             // 12M Baud Rate:115200
     outp32(0x4005000C, 0x3);                    // UART0: Line Control
+}
+
+void SendChar_ToUART(int ch)
+{
+    while(UART->FSR & UART_FSR_TX_FULL_Msk);
+    UART->THR = ch;
+    if(ch == '\n')
+    {
+        while(UART->FSR & UART_FSR_TX_FULL_Msk);
+        UART->THR = '\r';
+    }
+}
+
+void print_msg(char *str)
+{
+    for ( ; *str ; str++)
+        SendChar_ToUART(*str);
 }
 
 
@@ -75,17 +87,6 @@ __asm __set_SP(uint32_t _sp)
 #endif
 
 
-static void SYS_UnlockReg(void)
-{
-    while(SYS->RegLockAddr != SYS_RegLockAddr_RegUnLock_Msk)
-    {
-        SYS->RegLockAddr = 0x59;
-        SYS->RegLockAddr = 0x16;
-        SYS->RegLockAddr = 0x88;
-    }
-}
-
-
 int main()
 {
     FUNC_PTR    *func;
@@ -93,28 +94,37 @@ int main()
     SYS_Init();
     UART_Init();
 
-    printf("\n\n");
-    printf("NUC029FAE FMC IAP Sample Code [LDROM code]\n");
+    print_msg("\n\n");
+    print_msg("+++ NUC029FAE FMC IAP Sample Code [LDROM code]\n");
 
     SYS_UnlockReg();
 
     /* Enable FMC ISP function */
     FMC_Open();
 
-    printf("\n\nPress any key to branch to APROM...\n");
-    getchar();
+    print_msg("\n\nPress any key to branch to APROM...\n");
+    while (UART->FSR & UART_FSR_RX_EMPTY_Msk);
 
-    printf("\n\nChange VECMAP and branch to LDROM...\n");
+    print_msg("\n\nChange VECMAP and branch to APROM...\n");
     while (!(UART->FSR & UART_FSR_TX_EMPTY_Msk));
+
+    sp = FMC_Read(FMC_APROM_BASE);
+    func = (FUNC_PTR *)FMC_Read(FMC_APROM_BASE + 4);
+
+#if defined (__GNUC__) && !defined(__ARMCC_VERSION) /* for GNU C compiler */
+    asm("msr msp, %0" : : "r" (sp));
+#else
+    __set_SP(sp);
+#endif
 
     /*  NOTE!
      *     Before change VECMAP, user MUST disable all interrupts.
      */
-    FMC_SetVectorPageAddr(FMC_APROM_BASE);
-    SYS_LockReg();
+    FMC->ISPCMD = FMC_ISPCMD_VECMAP;
+    FMC->ISPADR = FMC_APROM_BASE;
+    FMC->ISPTRG = FMC_ISPTRG_ISPGO_Msk;
+    while (FMC->ISPTRG & FMC_ISPTRG_ISPGO_Msk) ;
 
-    func = (FUNC_PTR *)*(uint32_t *)(FMC_APROM_BASE + 4);
-    __set_SP(*(uint32_t *)FMC_APROM_BASE);
     func();
 
     while (1);

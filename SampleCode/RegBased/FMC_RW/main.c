@@ -21,35 +21,43 @@
 
 void SYS_Init(void)
 {
+    /* Unlock protected registers */
+    while(SYS->RegLockAddr != 1)
+    {
+        SYS->RegLockAddr = 0x59;
+        SYS->RegLockAddr = 0x16;
+        SYS->RegLockAddr = 0x88;
+    }
+
+    /* Enable internal RC 22.1184MHz, and  RC 10K (fro WDT) */
+    CLK->PWRCON = CLK_PWRCON_IRC22M_EN_Msk | CLK_PWRCON_IRC10K_EN_Msk;
+
+    /* Waiting for clock ready */
+    while((CLK->CLKSTATUS & (CLK_CLKSTATUS_IRC22M_STB_Msk | CLK_CLKSTATUS_IRC10K_STB_Msk)) !=
+            (CLK_CLKSTATUS_IRC22M_STB_Msk | CLK_CLKSTATUS_IRC10K_STB_Msk));
+
+
+    /* Enable UART and WDT clock */
+    CLK->APBCLK = CLK_APBCLK_UART_EN_Msk | CLK_APBCLK_WDT_EN_Msk;
+
+    /* Update System Core Clock */
+    /* User can use SystemCoreClockUpdate() to calculate SystemCoreClock and CycylesPerUs automatically. */
+    SystemCoreClockUpdate();
+
     /*---------------------------------------------------------------------------------------------------------*/
-    /* Init System Clock                                                                                       */
+    /* Init I/O Multi-function                                                                                 */
     /*---------------------------------------------------------------------------------------------------------*/
-    /* Enable External XTAL (4~24 MHz) */
-    CLK->PWRCON &= ~CLK_PWRCON_XTLCLK_EN_Msk;
-    CLK->PWRCON |= (0x1 << CLK_PWRCON_XTLCLK_EN_Pos); // XTAL12M (HXT) Enabled
-
-    /* Waiting for 12MHz clock ready */
-    while (!(CLK->CLKSTATUS & CLK_CLKSTATUS_XTL_STB_Msk));
-
-    /* Switch HCLK clock source to XTAL */
-    CLK->CLKSEL0 &= ~CLK_CLKSEL0_HCLK_S_Msk;
-    CLK->CLKSEL0 |= CLK_CLKSEL0_HCLK_S_XTAL;
-
-    /* Enable IP clock */
-    CLK->APBCLK |= CLK_APBCLK_UART_EN_Msk; // UART Clock Enable
-
-    /* Select IP clock source */
-    CLK->CLKSEL1 &= ~CLK_CLKSEL1_UART_S_Msk;
-    CLK->CLKSEL1 |= (0x0 << CLK_CLKSEL1_UART_S_Pos);// Clock source from external 12 MHz or 32 KHz crystal clock
-
+    /* Set P1 multi-function pins for UART RXD and TXD */
+    SYS->P1_MFP = SYS_MFP_P12_RXD | SYS_MFP_P13_TXD;
 }
 
 void UART_Init()
 {
-    /* Set P0,P1 multi-function pins for UART RXD and TXD  */
-    SYS->P0_MFP = 0x303;
-    UART->LCR = 0x3;
-    UART->BAUD = 0x30000066;
+    // Set UART to 8 bit character length, 1 stop bit, and no parity
+    UART->LCR = UART_LCR_WLS_Msk;
+    // 22.1184 MHz reference clock input, for 115200 bps
+    // 22118400 / 115200 = 192. Using mode 2 to calculate baudrate, 192 - 2 = 190 = 0xBE
+    UART->BAUD = UART_BAUD_DIV_X_EN_Msk | UART_BAUD_DIV_X_ONE_Msk | (0xBE);
 }
 
 
@@ -149,11 +157,6 @@ int32_t  flash_test(uint32_t u32StartAddr, uint32_t u32EndAddr, uint32_t u32Patt
 
 int main()
 {
-    /* Disable register write-protection function */
-    SYS->RegLockAddr = 0x59;
-    SYS->RegLockAddr = 0x16;
-    SYS->RegLockAddr = 0x88;
-
     SYS_Init();
     UART_Init();
 
