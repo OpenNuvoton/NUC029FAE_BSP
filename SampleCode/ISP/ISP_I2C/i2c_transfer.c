@@ -29,7 +29,8 @@ void I2C_Init(void)
     SYS->IPRSTC2 |=  SYS_IPRSTC2_I2C_RST_Msk;
     SYS->IPRSTC2 &= ~SYS_IPRSTC2_I2C_RST_Msk;
     /* Open I2C0 and set clock to 100k */
-    I2C->I2CLK = (uint32_t)((((SystemCoreClock/2) * 10U) / (100000 * 4U) + 5U) / 10U - 1U); /* Compute proper divider for I2C clock */;
+    //I2C->I2CLK = (uint32_t)((((SystemCoreClock/2) * 10U) / (100000 * 4U) + 5U) / 10U - 1U); /* Compute proper divider for I2C clock */;
+    I2C->I2CLK = 27;
     I2C->I2CON |= I2C_I2CON_ENSI_Msk;
     /* Set I2C0 ADDR0 Slave Addresses */
     I2C->I2CADDR0  = (I2C_ADDR << 1U) | I2C_GCMODE_DISABLE;

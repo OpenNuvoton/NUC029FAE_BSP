@@ -16,7 +16,7 @@
 #include "uart_transfer.h"
 
 #define nRTSPin                 (P14)
-#define REVEIVE_MODE            (0)
+#define RECEIVE_MODE            (0)
 #define TRANSMIT_MODE           (1)
 
 void SYS_Init(void)
@@ -51,8 +51,8 @@ void SYS_Init(void)
     /* Init I/O Multi-function                                                                                 */
     /*---------------------------------------------------------------------------------------------------------*/
     /* Set P1 multi-function pins for UART RXD, TXD */
-    P1->PMD = (P1->PMD & ~(0x3ul << (4 << 1))) | (GPIO_PMD_OUTPUT << (4 << 1));
-    nRTSPin = REVEIVE_MODE;
+    P1->PMD = (P1->PMD & ~GPIO_PMD_PMD4_Msk) | (GPIO_PMD_OUTPUT << GPIO_PMD_PMD4_Pos);
+    nRTSPin = RECEIVE_MODE;
 
     /* Set P1 multi-function pins for UART RXD, TXD */
     SYS->P1_MFP &= ~(SYS_MFP_P12_Msk | SYS_MFP_P13_Msk);
@@ -125,8 +125,9 @@ int main(void)
             PutString();
 
             while ((UART->FSR & UART_FSR_TX_EMPTY_Msk) == 0);
+            while ((UART->FSR & UART_FSR_TE_FLAG_Msk) == 0);
 
-            nRTSPin = REVEIVE_MODE;
+            nRTSPin = RECEIVE_MODE;
             NVIC_EnableIRQ(UART_IRQn);
         }
     }

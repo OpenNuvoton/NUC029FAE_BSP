@@ -429,7 +429,7 @@
             <File>
               <FileName>startup_NUC029FAE.s</FileName>
               <FileType>2</FileType>
-              <FilePath>..\..\..\..\Library\Device\Nuvoton\NUC029FAE\Source\ARM\startup_NUC029FAE.s</FilePath>
+              <FilePath>..\startup_NUC029FAE.s</FilePath>
             </File>
           </Files>
         </Group>
