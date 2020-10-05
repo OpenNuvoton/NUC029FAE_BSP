@@ -220,9 +220,9 @@ void CLK_SetSysTickClockSrc(uint32_t u32ClkSrc)
 /**
   * @brief  This function enable clock source
   * @param  u32ClkMask is clock source mask. Including :
-  *         - \ref CLK_PWRCON_HXT or CLK_PWRCON_LXT,
-  *         - \ref CLK_PWRCON_LIRC_EN_Msk
-  *         - \ref CLK_PWRCON_HIRC_EN_Msk
+  *         - CLK_PWRCON_HXT or CLK_PWRCON_LXT,
+  *         - CLK_PWRCON_LIRC_EN_Msk
+  *         - CLK_PWRCON_HIRC_EN_Msk
   * @return None
   */
 void CLK_EnableXtalRC(uint32_t u32ClkMask)
@@ -233,9 +233,9 @@ void CLK_EnableXtalRC(uint32_t u32ClkMask)
 /**
   * @brief  This function disable clock source
   * @param  u32ClkMask is clock source mask. Including :
-  *         - \ref CLK_PWRCON_XTLCLK_EN_Msk,
-  *         - \ref CLK_PWRCON_LIRC_EN_Msk,
-  *         - \ref CLK_PWRCON_HIRC_EN_Msk,
+  *         - CLK_PWRCON_XTLCLK_EN_Msk,
+  *         - CLK_PWRCON_LIRC_EN_Msk,
+  *         - CLK_PWRCON_HIRC_EN_Msk,
   * @return None
   */
 void CLK_DisableXtalRC(uint32_t u32ClkMask)
@@ -309,10 +309,10 @@ void CLK_SysTickDelay(uint32_t us)
 /**
   * @brief  This function check selected clock source status
   * @param  u32ClkMask is selected clock source. Including
-  *           - \ref CLK_CLKSTATUS_CLK_SW_FAIL_Msk
-  *           - \ref CLK_CLKSTATUS_HIRC_STB_Msk
-  *           - \ref CLK_CLKSTATUS_LIRC_STB_Msk
-  *           - \ref CLK_CLKSTATUS_XTL_STB_Msk
+  *           - CLK_CLKSTATUS_CLK_SW_FAIL_Msk
+  *           - CLK_CLKSTATUS_HIRC_STB_Msk
+  *           - CLK_CLKSTATUS_LIRC_STB_Msk
+  *           - CLK_CLKSTATUS_XTL_STB_Msk
   *
   * @return   0  clock is not stable
   *           1  clock is stable

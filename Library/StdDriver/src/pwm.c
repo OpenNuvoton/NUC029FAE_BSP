@@ -431,8 +431,8 @@ void PWM_DisableFaultBrakeInt (PWM_T *pwm, uint32_t u32BrakeSource)
  * @brief This function clear fault brake interrupt of selected source
  * @param[in] pwm The base address of PWM module
  * @param[in] u32BrakeSource Fault brake source, could be either
- *                  - \ref PWM_PIIR_BKF0_Msk, or
- *                  - \ref PWM_PIIR_BKF1_Msk
+ *                  - PWM_PIIR_BKF0_Msk, or
+ *                  - PWM_PIIR_BKF1_Msk
  * @return None
  */
 void PWM_ClearFaultBrakeIntFlag (PWM_T *pwm, uint32_t u32BrakeSource)
@@ -444,8 +444,8 @@ void PWM_ClearFaultBrakeIntFlag (PWM_T *pwm, uint32_t u32BrakeSource)
  * @brief This function get fault brake interrupt of selected source
  * @param[in] pwm The base address of PWM module
  * @param[in] u32BrakeSource Fault brake source, could be either
- *                  - \ref PWM_PIIR_BKF0_Msk, or
- *                  - \ref PWM_PIIR_BKF1_Msk
+ *                  - PWM_PIIR_BKF0_Msk, or
+ *                  - PWM_PIIR_BKF1_Msk
  * @return Fault brake interrupt flag of specified source
  * @retval 0 Fault brake interrupt did not occurred
  * @retval 1 Fault brake interrupt occurred
