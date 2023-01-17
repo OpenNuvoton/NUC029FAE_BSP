@@ -295,15 +295,21 @@ void CLK_DisableModuleClock(uint32_t u32ModuleIdx)
   * @details    Use the SysTick to generate the delay time and the UNIT is in us.
   *             The SysTick clock source is from HCLK, i.e the same as system core clock.
   */
-void CLK_SysTickDelay(uint32_t us)
+int32_t CLK_SysTickDelay(uint32_t us)
 {
+    int32_t  tout = SystemCoreClock * ((us / 1000000) + 1) + (SystemCoreClock / 2);
+
     SysTick->LOAD = us * CyclesPerUs;
     SysTick->VAL  =  (0x00);
     SysTick->CTRL = SysTick_CTRL_CLKSOURCE_Msk | SysTick_CTRL_ENABLE_Msk;
 
     /* Waiting for down-count to zero */
-    while((SysTick->CTRL & SysTick_CTRL_COUNTFLAG_Msk) == 0);
+    while (((SysTick->CTRL & SysTick_CTRL_COUNTFLAG_Msk) == 0) &&
+            (tout-- > 0));
+    if ((SysTick->CTRL & SysTick_CTRL_COUNTFLAG_Msk) == 0)
+        return -1;      /* time out */
     SysTick->CTRL = 0;
+    return 0;
 }
 
 /**

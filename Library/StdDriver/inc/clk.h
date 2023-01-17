@@ -158,7 +158,7 @@ void CLK_EnableXtalRC(uint32_t u32ClkMask);
 void CLK_DisableXtalRC(uint32_t u32ClkMask);
 void CLK_EnableModuleClock(uint32_t u32ModuleIdx);
 void CLK_DisableModuleClock(uint32_t u32ModuleIdx);
-void CLK_SysTickDelay(uint32_t us);
+int32_t CLK_SysTickDelay(uint32_t us);
 uint32_t CLK_WaitClockReady(uint32_t u32ClkMask);
 
 
