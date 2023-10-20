@@ -30,7 +30,7 @@ void SYS_Init(void)
     }
 
     /* Enable internal 22.1184MHz */
-    CLK->PWRCON |= (CLK_PWRCON_IRC22M_EN_Msk | CLK_PWRCON_XTLCLK_EN_Msk);
+    CLK->PWRCON |= (CLK_PWRCON_IRC22M_EN_Msk);
 
     /* Waiting for clock ready */
     while (!(CLK->CLKSTATUS & CLK_CLKSTATUS_IRC22M_STB_Msk));

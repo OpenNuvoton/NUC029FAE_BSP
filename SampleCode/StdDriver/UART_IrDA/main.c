@@ -45,6 +45,10 @@ void SYS_Init(void)
     /* Unlock protected registers */
     SYS_UnlockReg();
 
+    /* Set P5 multi-function pins for XTAL1 and XTAL2 */
+    SYS->P5_MFP &= ~(SYS_MFP_P50_Msk | SYS_MFP_P51_Msk);
+    SYS->P5_MFP |= (SYS_MFP_P50_XTAL1 | SYS_MFP_P51_XTAL2);
+
     /* Enable External XTAL (4~24 MHz) */
     CLK->PWRCON &= ~CLK_PWRCON_XTLCLK_EN_Msk;
     CLK->PWRCON |= (0x1 << CLK_PWRCON_XTLCLK_EN_Pos); // XTAL12M (HXT) Enabled
