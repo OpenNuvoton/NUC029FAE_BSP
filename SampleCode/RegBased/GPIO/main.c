@@ -168,8 +168,8 @@ int main (void)
     getchar();
 
     /* Configure P1.5 as Output mode and P3.4 as Input mode then close it */
-    P1->PMD = P1->PMD & ~0xc00 | (GPIO_PMD_OUTPUT << 10);
-    P3->PMD = P3->PMD & ~0x300 | (GPIO_PMD_INPUT << 8);
+    P1->PMD = (P1->PMD & ~0xc00) | (GPIO_PMD_OUTPUT << 10);
+    P3->PMD = (P3->PMD & ~0x300) | (GPIO_PMD_INPUT << 8);
 
     i32Err = 0;
     printf("  GPIO Output/Input test ...... \n");
@@ -197,8 +197,8 @@ int main (void)
     }
 
     /* Configure P1.5 and P3.4 to default Quasi-bidirectional mode */
-    P1->PMD = P1->PMD & ~0xc00 | (GPIO_PMD_QUASI << 10);
-    P3->PMD = P3->PMD & ~0x300 | (GPIO_PMD_QUASI << 8);
+    P1->PMD = (P1->PMD & ~0xc00) | (GPIO_PMD_QUASI << 10);
+    P3->PMD = (P3->PMD & ~0x300) | (GPIO_PMD_QUASI << 8);
 
     /*-----------------------------------------------------------------------------------------------------*/
     /* GPIO Interrupt Function Test                                                                        */
@@ -206,20 +206,20 @@ int main (void)
     printf("\n  P07, P25, and P32(INT0) are used to test interrupt\n");
 
     /* Configure P0.7 as Quasi-bidirection mode and enable interrupt by rising and falling edge trigger */
-    P0->PMD = P0->PMD & ~0xc000 | (GPIO_PMD_QUASI << 14);
+    P0->PMD = (P0->PMD & ~0xc000) | (GPIO_PMD_QUASI << 14);
     P0->IMD &= ~0x80;
     P0->IEN |= 0x800080;
     NVIC_EnableIRQ(GPIO01_IRQn);
 
 
     /*  Configure P2.5 as Quasi-bidirection mode and enable interrupt by falling edge trigger */
-    P2->PMD = P2->PMD & ~0xc00 | (GPIO_PMD_QUASI << 10);
+    P2->PMD = (P2->PMD & ~0xc00) | (GPIO_PMD_QUASI << 10);
     P2->IMD &= ~0x20;
     P2->IEN |= 0x020;
     NVIC_EnableIRQ(GPIO234_IRQn);
 
     /* Configure P3.2 as EINT0 pin and enable interrupt by falling edge trigger */
-    P3->PMD = P3->PMD & ~0x30 | (GPIO_PMD_QUASI << 4);
+    P3->PMD = (P3->PMD & ~0x30) | (GPIO_PMD_QUASI << 4);
     P3->IMD &= ~0x4;
     P3->IEN |= 0x04;
     NVIC_EnableIRQ(EINT0_IRQn);
