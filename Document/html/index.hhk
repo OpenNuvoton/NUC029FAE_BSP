@@ -182,25 +182,26 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga3aa20ab5eb33383fa31b0e94f4401cdf"><param name="Name" value="BIT9"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gabcc1733dcd63d84da44ae4c75f6312b2"><param name="Name" value="BODCTL"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gga666eb0caeb12ec0e281415592ae89083ac2ee5960aed41ff349aa7a86c37e9ab2"><param name="Name" value="BOD_IRQn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a6821bafc3c88dfb2e433a095df9940c6"><param name="Name" value="BUF_SIZE"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga2da6b6038c3e29eb02a23385f7dfe18e"><param name="Name" value="BYTE0_Msk"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga6bdb45c3d1adab74d72eab6116f9581c"><param name="Name" value="BYTE1_Msk"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga6a926438abfcff696496c60ee5ebd4da"><param name="Name" value="BYTE2_Msk"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga26cd8778bf420a922c9cd2bf7c916875"><param name="Name" value="BYTE3_Msk"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga86e2c5b891ecef1ab55b1edac0da79a6"><param name="Name" value="C"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad7ab052ab79c602547c9987161188273"><param name="Name" value="C"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga86e2c5b891ecef1ab55b1edac0da79a6"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad7ab052ab79c602547c9987161188273"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga40213a6b5620410cac83b0d89564609d"><param name="Name" value="C"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga40213a6b5620410cac83b0d89564609d"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga86e2c5b891ecef1ab55b1edac0da79a6"><param name="Name" value="C"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga86e2c5b891ecef1ab55b1edac0da79a6"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7dfe280c82cf1240f6303a10afe71ddc"><param name="Name" value="C"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7dfe280c82cf1240f6303a10afe71ddc"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad7ab052ab79c602547c9987161188273"><param name="Name" value="C"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad7ab052ab79c602547c9987161188273"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafcadb0c6d35b21cdc0018658a13942de"><param name="Name" value="CALIB"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2d6653b0b70faac936046a02809b577f"><param name="Name" value="CCR"></OBJECT>
@@ -439,19 +440,19 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7dfe280c82cf1240f6303a10afe71ddc"><param name="Name" value="C"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga86e2c5b891ecef1ab55b1edac0da79a6"><param name="Name" value="C"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad7ab052ab79c602547c9987161188273"><param name="Name" value="C"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga40213a6b5620410cac83b0d89564609d"><param name="Name" value="C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7dfe280c82cf1240f6303a10afe71ddc"><param name="Name" value="C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga86e2c5b891ecef1ab55b1edac0da79a6"><param name="Name" value="C"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -499,11 +500,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gade58486d71fc8dd1844a3474c2b01193"><param name="Name" value="ISR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gab46e5f1b2f4d17cfb9aca4fffcbb2fa5"><param name="Name" value="ISR"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gab46e5f1b2f4d17cfb9aca4fffcbb2fa5"><param name="Name" value="ISR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gade58486d71fc8dd1844a3474c2b01193"><param name="Name" value="ISR"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -512,10 +513,6 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4780a489256bb9f54d0ba8ed4de191cd"><param name="Name" value="LOAD"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3a2edf7a470726be4425574387ac4315"><param name="Name" value="N"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -528,6 +525,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2db9a52f6d42809627d1a7a607c5dbc5"><param name="Name" value="N"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3a2edf7a470726be4425574387ac4315"><param name="Name" value="N"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -571,11 +572,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7630e035e927de589e40abcd3086b319"><param name="Name" value="SPSEL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8cc085fea1c50a8bd9adea63931ee8e2"><param name="Name" value="SPSEL"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8cc085fea1c50a8bd9adea63931ee8e2"><param name="Name" value="SPSEL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7630e035e927de589e40abcd3086b319"><param name="Name" value="SPSEL"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -583,19 +584,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3d953da572bd5bb067f61f8bf4f8639e"><param name="Name" value="T"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7eed9fe24ae8d354cd76ae1c1110a658"><param name="Name" value="T"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf72ce151aac0b137765fd776e8e542dc"><param name="Name" value="V"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf14df16ea0690070c45b95f2116b7a0a"><param name="Name" value="V"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3d953da572bd5bb067f61f8bf4f8639e"><param name="Name" value="T"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -607,11 +600,15 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga9b5420d17e8e43104ddd4ae5a610af93"><param name="Name" value="VAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf72ce151aac0b137765fd776e8e542dc"><param name="Name" value="V"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1e5d9801013d5146f2e02d9b7b3da562"><param name="Name" value="Z"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf14df16ea0690070c45b95f2116b7a0a"><param name="Name" value="V"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga9b5420d17e8e43104ddd4ae5a610af93"><param name="Name" value="VAL"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -619,19 +616,19 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga58810e99786acd04685b08c1074703c8"><param name="Name" value="Z"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3b04d58738b66a28ff13f23d8b0ba7e5"><param name="Name" value="Z"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad666df1095bc7ab15d490b6e7fd80c52"><param name="Name" value="_reserved0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga58810e99786acd04685b08c1074703c8"><param name="Name" value="Z"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaab891ce4bc9998637e391eb006275457"><param name="Name" value="_reserved0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1e5d9801013d5146f2e02d9b7b3da562"><param name="Name" value="Z"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf438e0f407357e914a70b5bd4d6a97c5"><param name="Name" value="_reserved0"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -639,11 +636,15 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf8c314273a1e4970a5671bd7f8184f50"><param name="Name" value="_reserved0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafbce95646fd514c10aa85ec0a33db728"><param name="Name" value="_reserved0"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad2eb0a06de4f03f58874a727716aa9aa"><param name="Name" value="_reserved0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaab891ce4bc9998637e391eb006275457"><param name="Name" value="_reserved0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad666df1095bc7ab15d490b6e7fd80c52"><param name="Name" value="_reserved0"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -651,11 +652,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafbce95646fd514c10aa85ec0a33db728"><param name="Name" value="_reserved0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad2eb0a06de4f03f58874a727716aa9aa"><param name="Name" value="_reserved0"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf438e0f407357e914a70b5bd4d6a97c5"><param name="Name" value="_reserved0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf8c314273a1e4970a5671bd7f8184f50"><param name="Name" value="_reserved0"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -667,19 +668,19 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaa7a5662079a447f801034d108f80ce49"><param name="Name" value="_reserved1"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gae91f1a831fef78e7bf4eea06602d396f"><param name="Name" value="_reserved1"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2e42a77fd15c8763f1a6af8d9cc6015f"><param name="Name" value="b"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaa7a5662079a447f801034d108f80ce49"><param name="Name" value="_reserved1"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga945fa1fb52e179815bf974fa8abcf16c"><param name="Name" value="b"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2e42a77fd15c8763f1a6af8d9cc6015f"><param name="Name" value="b"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
@@ -695,15 +696,15 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1a47176768f45f79076c4f5b1b534bc2"><param name="Name" value="w"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gae4c2ef8c9430d7b7bef5cbfbbaed3a94"><param name="Name" value="w"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4adca999d3a0bc1ae682d73ea7cfa879"><param name="Name" value="w"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1a47176768f45f79076c4f5b1b534bc2"><param name="Name" value="w"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/d49/group___c_m_s_i_s___s_c_b.html"><param name="Name" value="CMSIS_SCB"></OBJECT>
   <UL>
@@ -1036,12 +1037,14 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gad3d4810bebd87d723aa1c2553576bc95"><param name="Name" value="DBEN"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gab155603e6d2b03bf4994d973f868352f"><param name="Name" value="DBNCECON"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ad7725bd9f76ca4bbdfdeb470ac223138"><param name="Name" value="DEBUG_PORT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga6f8433cf17517dba01cee3cbd65f4e63"><param name="Name" value="DFBADR"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga99496f7308834e8b220f7894efa0b6ab"><param name="Name" value="DISABLE"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga42354a1e5fb4dfd5424ce0f522c99dcc"><param name="Name" value="DIVIDER"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga5d1418a8fdc087ba44028f784cbd2ea2"><param name="Name" value="DMASK"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gacedf474a76d41eb49d93ca976fa0afa4"><param name="Name" value="DOUT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/dcb/group___c_m_s_i_s__core__register.html"><param name="Name" value="Defines and Type Definitions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a099c43ad08420cc1950b5958939dbb0b"><param name="Name" value="DumpStack"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gga666eb0caeb12ec0e281415592ae89083a0a3db3233549f012f8ecb88f0510adcf"><param name="Name" value="EINT0_IRQn"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gga666eb0caeb12ec0e281415592ae89083ad855ae101e21a04054a9844066900d7c"><param name="Name" value="EINT1_IRQn"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga514ad415fb6125ba296793df7d1a468a"><param name="Name" value="ENABLE"></OBJECT>
@@ -1203,9 +1206,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/d94/group___g_p_i_o.html"><param name="Name" value="General Purpose Input/Output Controller(GPIO)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ad71fc5c80d56f83994f96dc83d0bbabe"><param name="Name" value="GetChar"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gga666eb0caeb12ec0e281415592ae89083ac0f079afe06bca01791f706357cb9512"><param name="Name" value="HIRC_IRQn"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a1ccda7aff5ae7079bcb291df6400b600"><param name="Name" value="HardFault_Handler"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gga666eb0caeb12ec0e281415592ae89083ab1a222a34a32f0ef5ac65e714efc1f85"><param name="Name" value="HardFault_IRQn"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#abbc61afd0759008b5add4b522f092e2b"><param name="Name" value="Hard_Fault_Handler"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d04/group___n_u_c029_f_a_e___i2_c___driver.html"><param name="Name" value="I2C Driver"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d45/group___n_u_c029_f_a_e___i2_c___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html"><param name="Name" value="I2C Exported Constants"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/df7/group___n_u_c029_f_a_e___i2_c___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html"><param name="Name" value="I2C Exported Functions"></OBJECT>
@@ -1300,21 +1301,21 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga93a594f096446ee933113f6c57c200c3"><param name="Name" value="ISPDAT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga50c06852af00dd52ec34a9a5356130fb"><param name="Name" value="ISPR"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaef7c67979c87346e1de844a30b649269"><param name="Name" value="ISPTRG"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3e9120dcf1a829fc8d2302b4d0673970"><param name="Name" value="ISR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gade58486d71fc8dd1844a3474c2b01193"><param name="Name" value="ISR"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3e9120dcf1a829fc8d2302b4d0673970"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaec86533c981b0d1d676272c51eefd77d"><param name="Name" value="ISR"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaec86533c981b0d1d676272c51eefd77d"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gade58486d71fc8dd1844a3474c2b01193"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gab46e5f1b2f4d17cfb9aca4fffcbb2fa5"><param name="Name" value="ISR"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gab46e5f1b2f4d17cfb9aca4fffcbb2fa5"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gade58486d71fc8dd1844a3474c2b01193"><param name="Name" value="ISR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaec86533c981b0d1d676272c51eefd77d"><param name="Name" value="ISR"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gade58486d71fc8dd1844a3474c2b01193"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaec86533c981b0d1d676272c51eefd77d"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3e9120dcf1a829fc8d2302b4d0673970"><param name="Name" value="ISR"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga3e9120dcf1a829fc8d2302b4d0673970"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga1edf12aec26a4dccd41814cfb02dd949"><param name="Name" value="ISR"></OBJECT>
   <UL>
@@ -1342,13 +1343,13 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="db/dbd/group___n_u_c029_f_a_e___c_l_k___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#gabd693274238f70a5351e2f9e9af43caf"><param name="Name" value="MODULE_IP_EN_Pos"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="db/dbd/group___n_u_c029_f_a_e___c_l_k___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#ga2ba0e54c58638770ff47160b4092ab7d"><param name="Name" value="MODULE_NoMsk"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga41709d41600f4c0344aa555b509fe89f"><param name="Name" value="MSR"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafc2221bed1c214c1d4242eb4cb9c6358"><param name="Name" value="N"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafc2221bed1c214c1d4242eb4cb9c6358"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7e7bbba9b00b0bb3283dc07f1abe37e0"><param name="Name" value="N"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7e7bbba9b00b0bb3283dc07f1abe37e0"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafc2221bed1c214c1d4242eb4cb9c6358"><param name="Name" value="N"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafc2221bed1c214c1d4242eb4cb9c6358"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2db9a52f6d42809627d1a7a607c5dbc5"><param name="Name" value="N"></OBJECT>
   <UL>
@@ -4652,7 +4653,7 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html"><param name="Name" value="NUC029FAE_UART_EXPORTED_FUNCTIONS"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#gaeabee1f8c5091d07fa6750a15d7a83c9"><param name="Name" value="UART_CLEAR_RTS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga2a2bbf1d71806c044999a316f640687d"><param name="Name" value="UART_CLEAR_RTS"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html"><param name="Name" value="NUC029FAE_UART_EXPORTED_FUNCTIONS"></OBJECT>
   <UL>
@@ -4744,7 +4745,7 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html"><param name="Name" value="NUC029FAE_UART_EXPORTED_FUNCTIONS"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga99301bc930739f30cee2d34cf93e32ed"><param name="Name" value="UART_SET_RTS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga314065271811d1e0f5597c75ec9ecd7e"><param name="Name" value="UART_SET_RTS"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html"><param name="Name" value="NUC029FAE_UART_EXPORTED_FUNCTIONS"></OBJECT>
   <UL>
@@ -5440,27 +5441,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gae89a1c157c8f32081e88d5e41147b885"><param name="Name" value="RBR"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gafb202ba20ff0e10d790dd3ac19a71e17"><param name="Name" value="RBR"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gae3d02c351f26390fa3f6ed66c738966e"><param name="Name" value="RESERVED0"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga0372ad9237728dd6a898ca08671bb692"><param name="Name" value="RESERVED0"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga36482d63a44d87bd7ce502cc283df994"><param name="Name" value="RESERVED0"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaf705e740cc1df77f0ca62c566b8d3182"><param name="Name" value="RESERVED0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gae89a1c157c8f32081e88d5e41147b885"><param name="Name" value="RBR"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
@@ -5468,7 +5453,27 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga36482d63a44d87bd7ce502cc283df994"><param name="Name" value="RESERVED0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga77870bd8e85cd7d3924dea34d7e1f7c4"><param name="Name" value="RESERVED0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gae3d02c351f26390fa3f6ed66c738966e"><param name="Name" value="RESERVED0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaf705e740cc1df77f0ca62c566b8d3182"><param name="Name" value="RESERVED0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga0372ad9237728dd6a898ca08671bb692"><param name="Name" value="RESERVED0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaa7868997ff722679f9b5472da17063a6"><param name="Name" value="RESERVED1"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
@@ -5477,10 +5482,6 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gafb5c1bedae09cffd7999b817f5600479"><param name="Name" value="RESERVED1"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaa7868997ff722679f9b5472da17063a6"><param name="Name" value="RESERVED1"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   <UL>
@@ -5755,29 +5756,17 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gafb202ba20ff0e10d790dd3ac19a71e17"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga10960cdc703f661c83a237d9c69db23c"><param name="Name" value="RESERVED0"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga10960cdc703f661c83a237d9c69db23c"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad504dfc7be52ee065fe2d9e0e73726f7"><param name="Name" value="RESERVED0"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad504dfc7be52ee065fe2d9e0e73726f7"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga4e04caa0b562f301586ed30cbbc15c65"><param name="Name" value="RESERVED0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga10960cdc703f661c83a237d9c69db23c"><param name="Name" value="RESERVED0"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga4e04caa0b562f301586ed30cbbc15c65"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga77870bd8e85cd7d3924dea34d7e1f7c4"><param name="Name" value="RESERVED0"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga77870bd8e85cd7d3924dea34d7e1f7c4"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga10960cdc703f661c83a237d9c69db23c"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaf705e740cc1df77f0ca62c566b8d3182"><param name="Name" value="RESERVED0"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaf705e740cc1df77f0ca62c566b8d3182"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga0372ad9237728dd6a898ca08671bb692"><param name="Name" value="RESERVED0"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga0372ad9237728dd6a898ca08671bb692"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gae3d02c351f26390fa3f6ed66c738966e"><param name="Name" value="RESERVED0"></OBJECT>
   <UL>
@@ -5787,17 +5776,29 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga36482d63a44d87bd7ce502cc283df994"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga77870bd8e85cd7d3924dea34d7e1f7c4"><param name="Name" value="RESERVED0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga77870bd8e85cd7d3924dea34d7e1f7c4"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga4e04caa0b562f301586ed30cbbc15c65"><param name="Name" value="RESERVED0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga4e04caa0b562f301586ed30cbbc15c65"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga0372ad9237728dd6a898ca08671bb692"><param name="Name" value="RESERVED0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#ga0372ad9237728dd6a898ca08671bb692"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gadddd65958c1c4c0301f62ede0a9bf12e"><param name="Name" value="RESERVED1"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gadddd65958c1c4c0301f62ede0a9bf12e"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaa7868997ff722679f9b5472da17063a6"><param name="Name" value="RESERVED1"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaa7868997ff722679f9b5472da17063a6"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gad3fe3f226533132f324f2eda1f05110e"><param name="Name" value="RESERVED1"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gad3fe3f226533132f324f2eda1f05110e"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaa7868997ff722679f9b5472da17063a6"><param name="Name" value="RESERVED1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gaa7868997ff722679f9b5472da17063a6"><param name="Name" value="NUC029FAE_legacy_Constants"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gafb5c1bedae09cffd7999b817f5600479"><param name="Name" value="RESERVED1"></OBJECT>
   <UL>
@@ -5912,6 +5913,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a368e5417dfc8239b696ecf3233a6a955a9c57b8c9baa11c43e0396bdc3339e9d6"><param name="Name" value="SEMIHOSTING_SYS_WRITEC"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7b5ae9741a99808043394c4743b635c4"><param name="Name" value="SHCSR"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad5f716f2a3f6473b4785b468152a852f"><param name="Name" value="SHP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a0a9d8f093940fa3017cf1d9337ce5f25"><param name="Name" value="SH_Return"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/d85/group___n_u_c029_f_a_e___s_p_i___driver.html"><param name="Name" value="SPI Driver"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/d86/group___n_u_c029_f_a_e___s_p_i___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html"><param name="Name" value="SPI Exported Constants"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/db7/group___n_u_c029_f_a_e___s_p_i___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html"><param name="Name" value="SPI Exported Functions"></OBJECT>
@@ -5968,13 +5970,13 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d95/struct_s_p_i___t.html"><param name="Name" value="SPI_T"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/db7/group___n_u_c029_f_a_e___s_p_i___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga3b3a8af4404dca3916553b91766d2adf"><param name="Name" value="SPI_TRIGGER"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d4/db7/group___n_u_c029_f_a_e___s_p_i___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#gab93785c2240ec750938f7763dba9a1b2"><param name="Name" value="SPI_WRITE_TX"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8cc085fea1c50a8bd9adea63931ee8e2"><param name="Name" value="SPSEL"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8cc085fea1c50a8bd9adea63931ee8e2"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7630e035e927de589e40abcd3086b319"><param name="Name" value="SPSEL"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga7630e035e927de589e40abcd3086b319"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8cc085fea1c50a8bd9adea63931ee8e2"><param name="Name" value="SPSEL"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8cc085fea1c50a8bd9adea63931ee8e2"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="de/dbc/group___n_u_c029_f_a_e___p_e_r_i_p_h_e_r_a_l___m_e_m___m_a_p.html#ga05e8f3d2e5868754a7cd88614955aecc"><param name="Name" value="SRAM_BASE"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/db2/group___n_u_c029_f_a_e__legacy___constants.html#gacd5d65619694a5df1436bb9bc1f548d4"><param name="Name" value="SSR"></OBJECT>
@@ -6138,7 +6140,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d75/group___n_u_c029_f_a_e___s_y_s___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#gab72946358ea643256fb03e60feb3d8f4"><param name="Name" value="SYS_SET_BOD_LPM"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d7f/struct_s_y_s___t.html"><param name="Name" value="SYS_T"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d75/group___n_u_c029_f_a_e___s_y_s___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#gacf942387227541c12b798fcee79a56a0"><param name="Name" value="SYS_UnlockReg"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#abdd7dfc5d63ba5a36e6ca72a39bfa9e5"><param name="Name" value="SendChar"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a49be7df965b3acf68e2c5c82d6869ab6"><param name="Name" value="SendChar"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a6810d0fa478aa8204d73d9fc5d026c64"><param name="Name" value="SendChar_ToUART"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dd/d3c/group___s_p_i.html"><param name="Name" value="Serial Peripheral Interface Controller(SPI)"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="db/d15/group___c_m_s_i_s___c_o_r_e.html"><param name="Name" value="Status and Control Registers"></OBJECT>
@@ -6287,7 +6289,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga59118911e1bb8d8dfd8efa40bddcd1a5"><param name="Name" value="UART_BAUD_MODE0_DIVIDER"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga24e250ad638c968b36c1e892bbdc5cd2"><param name="Name" value="UART_BAUD_MODE2"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga7e5bef7359154929202790132aa821ec"><param name="Name" value="UART_BAUD_MODE2_DIVIDER"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#gaeabee1f8c5091d07fa6750a15d7a83c9"><param name="Name" value="UART_CLEAR_RTS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga2a2bbf1d71806c044999a316f640687d"><param name="Name" value="UART_CLEAR_RTS"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga6caa32b208da0662b8f8bf2180fb57b7"><param name="Name" value="UART_ClearIntFlag"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga56ed1b6c204c2ee6054e2273126bca8e"><param name="Name" value="UART_Close"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga6806d0b82666a849ae9ef6cad6747657"><param name="Name" value="UART_DISABLE_INT"></OBJECT>
@@ -6331,7 +6333,7 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d06/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#gaf6092e01dd538b74460bf0a48d774882"><param name="Name" value="UART_RTS_IS_HIGH_LEV_TRG"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d06/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#gae396db460cc40325e6ff48e101a12fa7"><param name="Name" value="UART_RTS_IS_LOW_LEV_TRG"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#gace2c59bec6efa5ccd85986f5fa15c7e0"><param name="Name" value="UART_Read"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga99301bc930739f30cee2d34cf93e32ed"><param name="Name" value="UART_SET_RTS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga314065271811d1e0f5597c75ec9ecd7e"><param name="Name" value="UART_SET_RTS"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d06/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#ga58e87dcac022388ad406eb83031777db"><param name="Name" value="UART_STOP_BIT_1"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d06/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#gab3aede405f7c8862476bfbd798997e81"><param name="Name" value="UART_STOP_BIT_1_5"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d6/d06/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___c_o_n_s_t_a_n_t_s.html#gac4d9bc854560827e6f6cbfe23389674a"><param name="Name" value="UART_STOP_BIT_2"></OBJECT>
@@ -6348,10 +6350,6 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga083fbb83994e89568760f957e23d8ab2"><param name="Name" value="UART_WRITE"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d11/group___n_u_c029_f_a_e___u_a_r_t___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga7c407ea077120e5e2e19b44742554137"><param name="Name" value="UART_Write"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d2/d48/group___u_a_r_t.html"><param name="Name" value="Universal Asynchronous Receiver/Transmitter Controller(UART)"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf72ce151aac0b137765fd776e8e542dc"><param name="Name" value="V"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf72ce151aac0b137765fd776e8e542dc"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4af3762938528657d2dd6d3a6bd4460b"><param name="Name" value="V"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4af3762938528657d2dd6d3a6bd4460b"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
@@ -6363,6 +6361,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8004d224aacb78ca37774c35f9156e7e"><param name="Name" value="V"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga8004d224aacb78ca37774c35f9156e7e"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf72ce151aac0b137765fd776e8e542dc"><param name="Name" value="V"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf72ce151aac0b137765fd776e8e542dc"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga9b5420d17e8e43104ddd4ae5a610af93"><param name="Name" value="VAL"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d8/d33/group___n_u_c029_f_a_e___w_d_t___driver.html"><param name="Name" value="WDT Driver"></OBJECT>
@@ -6424,6 +6426,11 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/da6/core__cm_func_8h.html#a50c339231579f3b052ed89428a8a2453"><param name="Name" value="__CORE_CMFUNC_H"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d74/core__cm_instr_8h.html#a8094222a3c0bab920053146eb21d9f37"><param name="Name" value="__CORE_CMINSTR_H"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d29/core__cm0_8h.html#a63ea62503c88acab19fcf3d5743009e3"><param name="Name" value="__CORTEX_M"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="da/d3e/struct_____f_i_l_e.html"><param name="Name" value="__FILE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="da/d3e/struct_____f_i_l_e.html"><param name="Name" value="__FILE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="da/d3e/struct_____f_i_l_e.html#ac65d6afc3b2c74e74d56195829a1626f"><param name="Name" value="handle"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gac1ba8a48ca926bddc88be9bfd7d42641"><param name="Name" value="__FPU_PRESENT"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d29/core__cm0_8h.html#aa167d0f532a7c2b2e3a6395db2fa0776"><param name="Name" value="__FPU_USED"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d79/system___n_u_c029_f_a_e_8h.html#abbd628d8a30e6695b3715ae72a693e56"><param name="Name" value="__HSI"></OBJECT>
@@ -6438,12 +6445,17 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d29/core__cm0_8h.html#a7e25d9380f9ef903923964322e71f2f6"><param name="Name" value="__O"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/d29/core__cm0_8h.html#a0ea2009ed8fd9ef35b48708280fdb758"><param name="Name" value="__OM"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dc3/group___n_u_c029_f_a_e___c_m_s_i_s.html#gab58771b4ec03f9bdddc84770f7c95c68"><param name="Name" value="__Vendor_SysTickConfig"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ac607bf387b29162be6a9b77fc7999539"><param name="Name" value="__WEAK"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d79/system___n_u_c029_f_a_e_8h.html#a94f5c03e3c2c2a616ed82de82e9bb130"><param name="Name" value="__XTAL12M"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d79/system___n_u_c029_f_a_e_8h.html#a4b216961fc7c604a794d52bdc02f22be"><param name="Name" value="__XTAL32K"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d79/system___n_u_c029_f_a_e_8h.html#a8687edecd98881631a879bd10528c7da"><param name="Name" value="__XTAL"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a201468129b483039afc5a619e2d31097"><param name="Name" value="__attribute__"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a201468129b483039afc5a619e2d31097"><param name="Name" value="_syscalls.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af9aace1b44b73111e15aa39f06f43456"><param name="Name" value="__attribute__"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af9aace1b44b73111e15aa39f06f43456"><param name="Name" value="retarget.c"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a8743fdbc616b2f214ae41792ab811610"><param name="Name" value="__attribute__"></OBJECT>
   <UL>
@@ -6460,37 +6472,33 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf8c314273a1e4970a5671bd7f8184f50"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga93892b25419206ce1d989a6b6abccc9f"><param name="Name" value="_reserved0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad666df1095bc7ab15d490b6e7fd80c52"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga93892b25419206ce1d989a6b6abccc9f"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad666df1095bc7ab15d490b6e7fd80c52"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf438e0f407357e914a70b5bd4d6a97c5"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaf438e0f407357e914a70b5bd4d6a97c5"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaab891ce4bc9998637e391eb006275457"><param name="Name" value="_reserved0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafbce95646fd514c10aa85ec0a33db728"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaab891ce4bc9998637e391eb006275457"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4ecc0cd1bc95c99a4a69eeee8d30b7bc"><param name="Name" value="_reserved0"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4ecc0cd1bc95c99a4a69eeee8d30b7bc"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafbce95646fd514c10aa85ec0a33db728"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad2eb0a06de4f03f58874a727716aa9aa"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad2eb0a06de4f03f58874a727716aa9aa"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafbce95646fd514c10aa85ec0a33db728"><param name="Name" value="_reserved0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4ecc0cd1bc95c99a4a69eeee8d30b7bc"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gafbce95646fd514c10aa85ec0a33db728"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4ecc0cd1bc95c99a4a69eeee8d30b7bc"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad666df1095bc7ab15d490b6e7fd80c52"><param name="Name" value="_reserved0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaab891ce4bc9998637e391eb006275457"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gad666df1095bc7ab15d490b6e7fd80c52"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaab891ce4bc9998637e391eb006275457"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga790056bb6f20ea16cecc784b0dd19ad6"><param name="Name" value="_reserved1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga93892b25419206ce1d989a6b6abccc9f"><param name="Name" value="_reserved0"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga790056bb6f20ea16cecc784b0dd19ad6"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga93892b25419206ce1d989a6b6abccc9f"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga45c08b9e66e55f41da75a38a2302c2eb"><param name="Name" value="_reserved1"></OBJECT>
   <UL>
@@ -6499,6 +6507,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaa7a5662079a447f801034d108f80ce49"><param name="Name" value="_reserved1"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaa7a5662079a447f801034d108f80ce49"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga790056bb6f20ea16cecc784b0dd19ad6"><param name="Name" value="_reserved1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga790056bb6f20ea16cecc784b0dd19ad6"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gae91f1a831fef78e7bf4eea06602d396f"><param name="Name" value="_reserved1"></OBJECT>
   <UL>
@@ -6518,11 +6530,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html"><param name="Name" value="_syscalls.c"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a13a9bc88662fbfb3a256c3e90f8dd906"><param name="Name" value="kill"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a4539db972bcf3dd8c8b429af0dc3789d"><param name="Name" value="kill"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html"><param name="Name" value="_syscalls.c"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a4539db972bcf3dd8c8b429af0dc3789d"><param name="Name" value="kill"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a13a9bc88662fbfb3a256c3e90f8dd906"><param name="Name" value="kill"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html"><param name="Name" value="_syscalls.c"></OBJECT>
   <UL>
@@ -6530,13 +6542,13 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a1647e9479b4be5731d79c81af76826c5"><param name="Name" value="_ttywrch"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a40c15747aa7d502fffebb8862d494b52"><param name="Name" value="arg"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2e42a77fd15c8763f1a6af8d9cc6015f"><param name="Name" value="b"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2e42a77fd15c8763f1a6af8d9cc6015f"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga945fa1fb52e179815bf974fa8abcf16c"><param name="Name" value="b"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga945fa1fb52e179815bf974fa8abcf16c"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2e42a77fd15c8763f1a6af8d9cc6015f"><param name="Name" value="b"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga2e42a77fd15c8763f1a6af8d9cc6015f"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gaacf5a116d3ec99e4dc8be310a28958b0"><param name="Name" value="b"></OBJECT>
   <UL>
@@ -6601,10 +6613,12 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d1/da6/core__cm_func_8h.html#a50c339231579f3b052ed89428a8a2453"><param name="Name" value="core_cmFunc.h"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d0/d74/core__cm_instr_8h.html#a8094222a3c0bab920053146eb21d9f37"><param name="Name" value="core_cmInstr.h"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#ad65a8842cc674e3ddf69355898c0ecbf"><param name="Name" value="errno"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a7d3d2b0c891c340cfaf0921aacfe392c"><param name="Name" value="ferror"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a2c4fad5f95f4c5242c3ea25d791df6e5"><param name="Name" value="fgetc"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#abac7707b6be5733e890091048fcb99a2"><param name="Name" value="fputc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a4a98383bb54291c2abede7aa28acf597"><param name="Name" value="ferror"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ab11a990e4f8863a1e7736e3c1d430092"><param name="Name" value="fgetc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a32d2b4f69d4059618d9c49a894523cfa"><param name="Name" value="fputc"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d6c/group___n_u_c029_f_a_e___f_m_c___e_x_p_o_r_t_e_d___f_u_n_c_t_i_o_n_s.html#ga1a26d3133f06211f483cb3b7a834fe31"><param name="Name" value="g_FMC_i32ErrCode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af1f65f8ccc2d14501465115086e9c761"><param name="Name" value="g_ICE_Conneced"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="da/d3e/struct_____f_i_l_e.html#ac65d6afc3b2c74e74d56195829a1626f"><param name="Name" value="handle"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#gad50a5a7ee7c2900e8d88180d4dfdeaea"><param name="Name" value="inp16"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#ga9165d95e45927e33912b3310f3153419"><param name="Name" value="inp32"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#ga9bb51593ea4ba3818c07d34fbbe1de6b"><param name="Name" value="inp8"></OBJECT>
@@ -6612,13 +6626,13 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#gab4846e416af3b9cec294469c7ac4d2e6"><param name="Name" value="inps"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#ga71b02ca2239bebbd42d53d64f7c7b334"><param name="Name" value="inpw"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a97e9b1fe8d4c010474637a654aad6566"><param name="Name" value="kbhit"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a13a9bc88662fbfb3a256c3e90f8dd906"><param name="Name" value="kill"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a13a9bc88662fbfb3a256c3e90f8dd906"><param name="Name" value="_syscalls.c"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a4539db972bcf3dd8c8b429af0dc3789d"><param name="Name" value="kill"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a4539db972bcf3dd8c8b429af0dc3789d"><param name="Name" value="_syscalls.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a13a9bc88662fbfb3a256c3e90f8dd906"><param name="Name" value="kill"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a13a9bc88662fbfb3a256c3e90f8dd906"><param name="Name" value="_syscalls.c"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a99fb83031ce9923c84392b4e92f956b5a29995ab8070d8bcd4b81920f486d8719"><param name="Name" value="lr"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#ga976c6d91f40eb1fb654483c585526b7d"><param name="Name" value="outp16"></OBJECT>
@@ -6637,15 +6651,19 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="df/dae/__syscalls_8c.html#a48f210aea9cd604209f996c3c909005a"><param name="Name" value="raise"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a6821bafc3c88dfb2e433a095df9940c6"><param name="Name" value="BUF_SIZE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ad7725bd9f76ca4bbdfdeb470ac223138"><param name="Name" value="DEBUG_PORT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a099c43ad08420cc1950b5958939dbb0b"><param name="Name" value="DumpStack"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ad71fc5c80d56f83994f96dc83d0bbabe"><param name="Name" value="GetChar"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a1ccda7aff5ae7079bcb291df6400b600"><param name="Name" value="HardFault_Handler"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#abbc61afd0759008b5add4b522f092e2b"><param name="Name" value="Hard_Fault_Handler"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
@@ -6653,11 +6671,23 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#abdd7dfc5d63ba5a36e6ca72a39bfa9e5"><param name="Name" value="SendChar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a0a9d8f093940fa3017cf1d9337ce5f25"><param name="Name" value="SH_Return"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a49be7df965b3acf68e2c5c82d6869ab6"><param name="Name" value="SendChar"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a6810d0fa478aa8204d73d9fc5d026c64"><param name="Name" value="SendChar_ToUART"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ac607bf387b29162be6a9b77fc7999539"><param name="Name" value="__WEAK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af9aace1b44b73111e15aa39f06f43456"><param name="Name" value="__attribute__"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
@@ -6673,15 +6703,19 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a7d3d2b0c891c340cfaf0921aacfe392c"><param name="Name" value="ferror"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a4a98383bb54291c2abede7aa28acf597"><param name="Name" value="ferror"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a2c4fad5f95f4c5242c3ea25d791df6e5"><param name="Name" value="fgetc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#ab11a990e4f8863a1e7736e3c1d430092"><param name="Name" value="fgetc"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#abac7707b6be5733e890091048fcb99a2"><param name="Name" value="fputc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a32d2b4f69d4059618d9c49a894523cfa"><param name="Name" value="fputc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af1f65f8ccc2d14501465115086e9c761"><param name="Name" value="g_ICE_Conneced"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
@@ -6718,10 +6752,6 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#a99fb83031ce9923c84392b4e92f956b5a5d5f095a80fd85c2eb082cf401ea61bd"><param name="Name" value="r3"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html"><param name="Name" value="retarget.c"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af143031eca5a9fd207cf5626f932d609"><param name="Name" value="stackDump"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html"><param name="Name" value="semihosting.h"></OBJECT>
   <UL>
@@ -6849,11 +6879,11 @@
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html"><param name="Name" value="semihosting.h"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a8743fdbc616b2f214ae41792ab811610"><param name="Name" value="__attribute__"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a98e2c4eea386fd66abf40bce60154756"><param name="Name" value="__attribute__"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html"><param name="Name" value="semihosting.h"></OBJECT>
   <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a98e2c4eea386fd66abf40bce60154756"><param name="Name" value="__attribute__"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a8743fdbc616b2f214ae41792ab811610"><param name="Name" value="__attribute__"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html"><param name="Name" value="semihosting.h"></OBJECT>
   <UL>
@@ -6867,7 +6897,6 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d5/d32/semihosting_8h.html#a8e2aaf30f82842a5290bcfe6f6848dc3"><param name="Name" value="volatile"></OBJECT>
   </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d3/d3d/retarget_8c.html#af143031eca5a9fd207cf5626f932d609"><param name="Name" value="stackDump"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/dc0/system___n_u_c029_f_a_e_8c.html"><param name="Name" value="system_NUC029FAE.c"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="dc/dc0/system___n_u_c029_f_a_e_8c.html#a63bedf89ae7fbb102b8653aca20d3a14"><param name="Name" value="CyclesPerUs"></OBJECT>
@@ -6921,14 +6950,6 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#ga9e9f2c67df0bbcd2dd7753693525ee07"><param name="Name" value="vu16"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#ga6e2761f0a1011f84ed96b946f2c8a563"><param name="Name" value="vu32"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d9/d08/group___n_u_c029_f_a_e___i_o___r_o_u_t_i_n_e.html#gaecf7c4189e2bd5ee7ac61f5639b1327a"><param name="Name" value="vu8"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga6b642cca3d96da660b1198c133ca2a1f"><param name="Name" value="w"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga6b642cca3d96da660b1198c133ca2a1f"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1a47176768f45f79076c4f5b1b534bc2"><param name="Name" value="w"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1a47176768f45f79076c4f5b1b534bc2"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gae4c2ef8c9430d7b7bef5cbfbbaed3a94"><param name="Name" value="w"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#gae4c2ef8c9430d7b7bef5cbfbbaed3a94"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
@@ -6936,6 +6957,14 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4adca999d3a0bc1ae682d73ea7cfa879"><param name="Name" value="w"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga4adca999d3a0bc1ae682d73ea7cfa879"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1a47176768f45f79076c4f5b1b534bc2"><param name="Name" value="w"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga1a47176768f45f79076c4f5b1b534bc2"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga6b642cca3d96da660b1198c133ca2a1f"><param name="Name" value="w"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="d7/dc2/group___c_m_s_i_s___core___sys_tick_functions.html#ga6b642cca3d96da660b1198c133ca2a1f"><param name="Name" value="CMSIS_Core_SysTickFunctions"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="db/d15/group___c_m_s_i_s___c_o_r_e.html#ga21e2497255d380f956ca0f48d11d0775"><param name="Name" value="xPSR_C_Msk"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="db/d15/group___c_m_s_i_s___c_o_r_e.html#ga14adb79b91f6634b351a1b57394e2db6"><param name="Name" value="xPSR_C_Pos"></OBJECT>
